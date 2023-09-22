@@ -781,7 +781,8 @@ a:focus {
 .service .service-text {
     position: relative;
     width: calc(100% - 120px);
-    padding: 0 30px;
+    padding: 0 17px;
+    text-align: justify;
 }
 
 .service .service-text h3 {
