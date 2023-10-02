@@ -1106,8 +1106,8 @@ a:focus {
 /*******************************/
 .team {
     position: relative;
-    width: 100%;
-    padding: 45px 0 15px 0;
+    width: 110%;
+    padding: 50px 0 20px 0;
 }
 .team .team-item {
     position: relative;
@@ -1156,6 +1156,9 @@ a:focus {
 .team .team-text p {
     margin-bottom: 20px;
     transition: 1s;
+    text-align:justify;
+    font-size: 11px;
+    
 }
 
 .team .team-social {
