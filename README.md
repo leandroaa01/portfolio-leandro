@@ -1,4 +1,4 @@
-<h1 align="center"> My portiforio</h1>
+<h1 align="center"> My Portforio</h1>
 
 
 <p align="center">
